@@ -36,10 +36,10 @@ function SimpleMediaCard(props) {
         </CardContent>
         <CardActions>
           <Button variant="raised" color="primary">
-            Offers
+            Explore
           </Button>
           <Button color="primary">
-            Check Store
+            Offers
           </Button>
         </CardActions>
       </Card>

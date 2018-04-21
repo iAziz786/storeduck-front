@@ -1,9 +1,7 @@
 import React, { Component } from 'react';
 import Grid from 'material-ui/Grid';
-import logo from './logo.svg';
 import AppBar from './AppBar';
 import StoreCard from './StoreCard';
-import { Typography } from 'material-ui/styles';
 
 
 class App extends Component {
